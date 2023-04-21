@@ -60,6 +60,7 @@ admin.site.register(Student,StudentAdmin)
 ```
 
 ## OUTPUT
+![django orm server output(1)](https://user-images.githubusercontent.com/121166390/233530304-3be11e77-27b4-4aaa-9910-348ee82558bb.jpg)
 
 ![aish django output (1)](https://user-images.githubusercontent.com/121166390/233250196-279a602e-47e5-4dbf-9799-801052751214.jpg)
 
